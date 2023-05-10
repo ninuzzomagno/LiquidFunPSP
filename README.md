@@ -1,6 +1,6 @@
 # LiquidFunPSP
 
------I HAVE NOT CREATED THIS LIBRARY, I HAVE ONLY COMPILED FOR PSP-----
+-----I HAVE NOT CREATED THIS LIBRARY, I HAVE ONLY COMPILED IT FOR PSP-----
 
 Original version of this library is <a href = "https://google.github.io/liquidfun/">here</a>
 
